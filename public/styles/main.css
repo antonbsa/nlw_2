@@ -54,8 +54,3 @@ body, input, button, textarea {
         font-size: 62,5%; /* todo 1rem vai ser equivalente a 10px */
     }
 }
-
-p {
-    color: var(--color-title-in-primary);
-    font-size: 3.5rem;
-}
